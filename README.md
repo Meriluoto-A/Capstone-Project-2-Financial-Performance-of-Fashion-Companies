@@ -41,7 +41,8 @@ Corporate Finance Executive — evaluates financial health, profitability, and v
 ## PREPARE
 
 - Publicly listed companies were included to ensure accessible and consistent financial data.
-- Financial values were collected from annual reports on each company’s website. 
+- Financial values were collected from annual reports on each company’s website.
+- Dataset follows the ROCCC approach (Reliable, Original, Comprehensive, Current, Cited) since the data was take from the publicly listed companies annual reports.  
 
 ## PROCESS
 
