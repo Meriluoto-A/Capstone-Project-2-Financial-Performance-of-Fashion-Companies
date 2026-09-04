@@ -52,7 +52,7 @@ Corporate Finance Executive — evaluates financial health, profitability, and v
 
 ## ANALYZE
 
-- Python and Tableau were used to clean, transform, and visualize the data.
+- **Python** and **Tableau** were used to clean, transform, and visualize the data.
 - The three figures were generated to reveal performance, momentum, and valuation insights.
 
 
